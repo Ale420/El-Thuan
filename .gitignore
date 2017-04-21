@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+  <title>El Thuan!</title>
+</head>
+<body>
+<h1>Mi amigo El Thuan!</h1>
+<img src="ElThuan.jpg">
+  <p>My friend thuan is someone I just met a few months ago, we had this class together and we got carried very well he has in the United States 1 year in Florida and three months in Denver Colorado</p>
+  <p id="sentence2">
+Thuan is a very intelligent person, he learns very fast, he is from vietnam, he is 18 years old, he lives with his two parents and he has 1 older brother and 2 older sisters he says he likes videogames, he also likes to much rice!</p>
+</body>
+</html>
+  <head>
+    <link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Tangerine">
+    </style>
+  </head>
+  <body>
+    <div>Making the Web Beautiful!</div>
+  </body>
+</html>
