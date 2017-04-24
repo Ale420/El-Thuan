@@ -1,0 +1,17 @@
+h1{
+color: red;
+font-size: 60px;
+}
+#sentence2{
+  color: blue;
+  font-size: 48px;
+}
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+#frame{
+  height:50%;
+<<<<<<< HEAD
+        width auto;
+        marning: auto;
